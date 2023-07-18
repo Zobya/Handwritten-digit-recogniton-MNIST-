@@ -1,2 +1,2 @@
 # Handwritten-digit-recogniton-MNIST-
-one of the projects I undertook while familiarizing myself with machine learning concepts, using MNIST dataset
+Using MNIST dataset, creating a model that recognizes hand written digits. One of the projects I did while learning machine learning concepts.
